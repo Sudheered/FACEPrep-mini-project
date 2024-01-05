@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>chemistry made easy</title>
+    <link rel="stylesheet" href="sudheecss.css" />
+  </head>
+  <body>
+    <h1 id="head">PH SCALE</h1>
+      <p style="background-color:blue">14.0 VERY AlKALINE</p>
+      <p style="background-color:rgb(30, 30, 248)">13.0</p>
+      <p style="background-color:rgb(60, 60, 248)">12.0</p>
+      <p style="background-color:rgb(110, 110, 248)">11.0</p>
+      <p style="background-color:rgb(132, 132, 245)">10.0</p>
+      <p style="background-color:rgb(148, 191, 255)">9.0</p>
+      <p style="background-color:rgb(187, 200, 255)">8.0</p>
+      <p style="background-color:green">7.0</p>
+      <p style="background-color:rgb(202, 125, 125)">6.0</p>
+      <p style="background-color:rgb(201, 97, 97)">5.0</p>
+      <p style="background-color:rgb(202, 59, 59)">4.0</p>
+      <p style="background-color:rgb(211, 40, 40)">3.0</p>
+      <p style="background-color:rgb(214, 21, 21)">2.0</p>
+      <p style="background-color:rgb(243, 9, 9)">1.0</p>
+      <p style="background-color:red">0.0 VERY ACID</p>
+  </body>
+</html>
+p{
+    color:white;
+   padding: 10px;
+   margin: 0;
+   font-family: Arial; San Serif;    
+   font-size: 18px;
+}
+*{
+    background-color:blanchedalmond;
+}
+#head{
+    background-color:white;
+}
